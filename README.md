@@ -31,6 +31,8 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: shakilofficial0@gmail.com
 - Published Projects by Me are below
+- [Adv-SpeedTest-cli](https://github.com/shakilofficial0/adv-speedtest-cli)
+- [tflite_plus](https://github.com/shakilofficial0/tflite_plus)
 - [UEHToR](https://github.com/shakilofficial0/UEHToR)
 - [Heroku-CyberTOR](https://github.com/shakilofficial0/Heroku-CyberTOR)
 - [Simple-File-Uploader-With-Progressbar](https://github.com/shakilofficial0/Simple-File-Uploader-With-Progressbar)
